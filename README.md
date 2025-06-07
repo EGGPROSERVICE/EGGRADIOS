@@ -1,5 +1,5 @@
 # EGGRADIOS
-{"categorie":[{"names":"Movie","videos":[{"descriptions":"Nous sommes la première  Radio diffusion privée à caractère Apolitique généraliste et Commerciale en Republique Democratique du Congo(RDC). Toujours prêt à vous servir !!!","source":[""https://rtlfm-lbfdbroadcast.radioca.st/;"],"subtitles":"All Channel","thumbs":"https://od.lk/s/NDZfODIwMTQwOTRf/topLualabaFm.jpg","titles":"EGG PRO FM"},
+{"categorie":[{"names":"Movie","videos":[{"descriptions":"Nous sommes la première  Radio diffusion privée à caractère Apolitique généraliste et Commerciale en Republique Democratique du Congo(RDC). Toujours prêt à vous servir !!!","source":["https://rtlfm-lbfdbroadcast.radioca.st/;"],"subtitles":"All Channel","thumbs":"https://od.lk/s/NDZfODIwMTQwOTRf/topLualabaFm.jpg","titles":"EGG PRO FM"},
 
 {"descriptions":"Nous sommes la première  Radio diffusion privée à caractère Apolitique généraliste et Commerciale en Republique Democratique du Congo(RDC). Toujours prêt à vous servir !!!","source":["https://mageco-lbfdbroadcast.radioca.st/;"],"subtitles":"All Channel","thumbs":"https://od.lk/s/NDZfODIxMzQ1MDVf/magicFM.jpg","titles":"EGG PRO FM"},
 
